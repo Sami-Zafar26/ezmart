@@ -7,4 +7,4 @@ this project is about small and simple incommerce website that i made in core ph
   * Create a database in your mysql database with "ezmart" name and import the ezmart.sql file in your mysql ezmart database
   * Now ezmart folder move to xampp htdocs folder
   * Open your browser and type on the url "localhost/ezmart/index.php" the client side will open
-  * If you want to see admin panel just type this url "localhost/ezmart/admin/admin_login.php" then login with these credentials email: admin@gmail.com and password: 1
+  * If you want to see admin panel just type this url "localhost/ezmart/admin/admin_login.php" then login with these credentials email: admin@gmail.com and password: 1234
