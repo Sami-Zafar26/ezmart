@@ -24,12 +24,11 @@
             </div>
             <div class="col-md-3">
                 <h5 class="text-dark mb-3">Contact</h5>
-                <address>
-                    Ezmart Pvt Limited.<br>
-                    Suite 401- 406, 4th Floor, Al-Khaleej Tower Plot# C-24 B.M.C.H.S, <br>Shaheed-e-Millat
-                    Karachi, Pakistan.<br>
-                    ph: (888) 888-8888
-                </address>
+                    <address>
+                        Ezmart Pvt Limited.<br>
+                        123 Maple Street, Gulberg, Lahore 54660, Pakistan<br>
+                        ph: +92 300 8888888
+                    </address>
             </div>
             <div class="col-md-3">
                 <h5 class="text-dark mb-3">Secure Payments Methods</h5>
